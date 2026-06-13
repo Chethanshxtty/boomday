@@ -22,3 +22,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <!-- doc update part 6 -->
 
 <!-- doc update part 8 -->
+
+<!-- doc update part 10 -->
